@@ -1,7 +1,7 @@
 //Write a program to create user defined exceptions called
 //HrsException, MinException and SecException. Create a class Time which contains data
 //members hours, minutes, seconds and a method to take a time from user which throws
-//the user defined exceptions if hours (&gt;24 &amp;&lt;0),minutes(&gt;60 &amp;&lt;0),seconds(&gt;60 &amp;&lt;0).
+//the user defined e xceptions if hours (&gt;24 &amp;&lt;0),minutes(&gt;60 &amp;&lt;0),seconds(&gt;60 &amp;&lt;0).
 package DAY6;
 
 import java.util.Scanner;

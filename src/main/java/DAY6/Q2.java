@@ -1,4 +1,4 @@
-//Write a Java program to handle an ArithmeticException using try,
+//Write a Java p rogram to handle an ArithmeticException using try,
 //catch, and finally block.
 package DAY6;
 public class Q2 {

@@ -1,4 +1,4 @@
-//Write a Java program to generate an
+//Write a  Java program to generate an
 //ArrayIndexOutofBoundsException and handle it using catch statement.
 package DAY6;
 import java.util.Scanner;
